@@ -1,0 +1,12 @@
+com\uol\springboot\rest\springboot2restservice\pojo\GeoLocation.class
+com\uol\springboot\rest\springboot2restservice\client\ClientResource.class
+com\uol\springboot\rest\springboot2restservice\client\ClientService$1.class
+com\uol\springboot\rest\springboot2restservice\client\Client.class
+com\uol\springboot\rest\springboot2restservice\client\ClientRepository.class
+com\uol\springboot\rest\springboot2restservice\client\ClientService.class
+com\uol\springboot\rest\springboot2restservice\pojo\ClimateLocation.class
+com\uol\springboot\rest\springboot2restservice\pojo\Distances.class
+com\uol\springboot\rest\springboot2restservice\client\RestTemplateConfig.class
+com\uol\springboot\rest\springboot2restservice\pojo\Data.class
+com\uol\springboot\rest\springboot2restservice\pojo\Weather.class
+com\uol\springboot\rest\springboot2restservice\SpringBoot2RestServiceApplication.class

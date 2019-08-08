@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.uol.springboot.rest.springboot2restservice.SpringBoot2RestServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.901 s - in com.uol.springboot.rest.springboot2restservice.SpringBoot2RestServiceApplicationTests
